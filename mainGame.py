@@ -39,7 +39,7 @@ class Game:
         for ball in self.balls:
             ball.fall()
         self.canvas.after(100, self.animate)
-        
+        #maked by Xaa4r
     def add_score(self, event):
         for ball in self.balls:
             coords = self.canvas.coords(ball.id)
