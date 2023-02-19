@@ -1,0 +1,4 @@
+When you launch this code,little window had opened and little red balls are falling from top to the ground with medium speed.Task of player is score 20 points(this number can de changed in code)
+In next updates to that project i create a menu which can help change winning points in game
+Task of player is tap on falling balls if ball reach minimum height game automatically lose,for every ball that player has tapped he take one point 
+In the left side of game window you can see button "Quit" if you push this button application will close
