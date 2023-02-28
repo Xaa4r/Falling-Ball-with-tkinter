@@ -53,7 +53,7 @@ class Game:
                     self.root.destroy()
                 return
         tk.Label(self.root, text='Game Over!').pack()
-        self.root.destroy()
+        
         
 root = tk.Tk()
 game = Game(root)
